@@ -1,0 +1,15 @@
+/home/eber/github/FominosPizza/bin/Debug/net6.0/FominosPizza
+/home/eber/github/FominosPizza/bin/Debug/net6.0/FominosPizza.deps.json
+/home/eber/github/FominosPizza/bin/Debug/net6.0/FominosPizza.runtimeconfig.json
+/home/eber/github/FominosPizza/bin/Debug/net6.0/FominosPizza.dll
+/home/eber/github/FominosPizza/bin/Debug/net6.0/ref/FominosPizza.dll
+/home/eber/github/FominosPizza/bin/Debug/net6.0/FominosPizza.pdb
+/home/eber/github/FominosPizza/obj/Debug/net6.0/FominosPizza.csproj.AssemblyReference.cache
+/home/eber/github/FominosPizza/obj/Debug/net6.0/FominosPizza.GeneratedMSBuildEditorConfig.editorconfig
+/home/eber/github/FominosPizza/obj/Debug/net6.0/FominosPizza.AssemblyInfoInputs.cache
+/home/eber/github/FominosPizza/obj/Debug/net6.0/FominosPizza.AssemblyInfo.cs
+/home/eber/github/FominosPizza/obj/Debug/net6.0/FominosPizza.csproj.CoreCompileInputs.cache
+/home/eber/github/FominosPizza/obj/Debug/net6.0/FominosPizza.dll
+/home/eber/github/FominosPizza/obj/Debug/net6.0/ref/FominosPizza.dll
+/home/eber/github/FominosPizza/obj/Debug/net6.0/FominosPizza.pdb
+/home/eber/github/FominosPizza/obj/Debug/net6.0/FominosPizza.genruntimeconfig.cache

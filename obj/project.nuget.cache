@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xiSZwJ0Ky5RDlTxwHmFYXx29/WHEOOHNKLVow6o6q6YK64zeGa7sPgiLg1bG4/zbkdEkqhl4hh88xcmtDLNa4w==",
+  "success": true,
+  "projectFilePath": "/home/eber/github/FominosPizza/FominosPizza.csproj",
+  "expectedPackageFiles": [
+    "/home/eber/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
